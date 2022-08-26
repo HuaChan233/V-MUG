@@ -8,8 +8,8 @@ A totally free rhythm game based on VTubers, VUPs and Vsingers
 
 ## Download
 - [V-MUG Official Website](https://v-mug.top/download/)
-- [V-MUG Github Release](https://github.com/)
-- [V-MUG Unity Content Distribution *(*Need to Change the Suffix Manually*)](https://assetstreaming-content.unity.cn/client_api/v1/buckets/843ca5fb-ace3-4834-9076-425ee5880472/release_by_badge/latest/content/latest.apk)
+- [Github Release](https://github.com/)
+- [Unity Content Distribution Service for V-MUG *(*Need to Change the Suffix Manually*)](https://assetstreaming-content.unity.cn/client_api/v1/buckets/843ca5fb-ace3-4834-9076-425ee5880472/release_by_badge/latest/content/latest.apk)
 
 ## Create Content
 Want to create a beatmap or a theme for V-MUG? [Contact us](mailto:editor@v-mug.top) for download link of V-MUG beatmap editor!
